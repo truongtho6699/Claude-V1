@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://truongtho6699.github.io/Claude-V1/sitemap.xml
